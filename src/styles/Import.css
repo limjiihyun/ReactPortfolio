@@ -1,0 +1,22 @@
+.importbox {
+  font-size: 60px;
+  display: flex;
+  margin-left: 30px;
+  align-self: flex-start;
+  font-family: "MaplestoryOTFBold";
+  margin-right: 10px;
+}
+.picture-main {
+  width: 900px;
+}
+.picturebox {
+  width: 300px;
+  margin: 1.5%;
+}
+.ptagbox {
+  position: absolute;
+  margin-left: 42%;
+  margin-top: 7%;
+  font-family: "MaplestoryOTFBold";
+  font-size: 30px;
+}

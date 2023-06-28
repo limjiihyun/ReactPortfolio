@@ -1,0 +1,23 @@
+.imgbox {
+  margin-right: 5%;
+}
+.ziihyunbox {
+  height: 400px;
+}
+.whitebox {
+  overflow-y: scroll;
+}
+.lifont {
+  font-size: 20px;
+}
+.summaryfont {
+  font-size: 26px;
+  margin-top: 2%;
+}
+.scroll::-webkit-scrollbar {
+  display: none; /* Chrome, Safari, Opera*/
+}
+.detailbox {
+  margin: 6%;
+  font-family: "GangwonEduPowerExtraBoldA";
+}

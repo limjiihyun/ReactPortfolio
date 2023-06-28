@@ -1,0 +1,83 @@
+.thisbox {
+  margin-left: 10%;
+  font-size: 80px;
+  margin-top: 0%;
+}
+.pinkbox {
+  width: 380px;
+  height: 380px;
+  margin: 2%;
+  border-radius: 20px 20px 20px 20px;
+  background-color: rgb(245, 204, 204);
+  float: left;
+  font-family: "GangwonEduPowerExtraBoldA";
+  font-size: 32px;
+}
+.projectname {
+  margin: 4%;
+}
+.bhanbatimg {
+  width: 150px;
+  display: flex;
+  position: absolute;
+}
+.pstachioimg {
+  width: 280px;
+  margin-left: 2%;
+  display: flex;
+  position: absolute;
+}
+.usetext {
+  font-size: 22px;
+  display: flex;
+  position: relative;
+  margin-left: 45%;
+  margin-top: 10%;
+}
+.usetext2 {
+  font-size: 22px;
+  display: flex;
+  position: relative;
+  margin-left: 45%;
+  margin-top: 20%;
+  background-color: rgb(219, 175, 239);
+  height: 30px;
+  border-radius: 10px 10px 10px 10px;
+}
+.usetext3 {
+  font-size: 22px;
+  position: relative;
+  margin-left: 14%;
+  margin-top: 50%;
+}
+.usetext4 {
+  font-size: 22px;
+  display: flex;
+  position: relative;
+  margin-left: 14%;
+  margin-top: 10%;
+  background-color: rgb(219, 175, 239);
+  height: 30px;
+  width: 200px;
+  border-radius: 10px 10px 10px 10px;
+}
+.usetext5 {
+  font-size: 22px;
+  display: flex;
+  position: relative;
+  margin-left: 14%;
+  margin-top: 4%;
+  background-color: rgb(219, 175, 239);
+  height: 30px;
+  width: 200px;
+  border-radius: 10px 10px 10px 10px;
+}
+@keyframes blink-effect {
+  50% {
+    opacity: 0;
+  }
+}
+
+.blink {
+  animation: blink-effect 1s step-end infinite;
+}

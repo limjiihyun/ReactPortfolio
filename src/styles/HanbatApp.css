@@ -1,0 +1,37 @@
+.hanbatimg {
+  width: 450px;
+  flex: 0 0 auto;
+  margin-left: 2%;
+  margin-top: 6%;
+  display: flex;
+  position: absolute;
+}
+.hanbattext {
+  font-size: 50px;
+  float: right;
+  margin-right: 60px;
+  font-family: "MaplestoryOTFBold";
+}
+.maketext {
+  font-size: 25px;
+  float: right;
+  margin-right: 60px;
+  font-family: "MaplestoryOTFBold";
+  float: left;
+  margin-top: 1%;
+  margin-bottom: 5%;
+}
+.make-text-box {
+  width: 800px;
+  height: 480px;
+  float: right;
+}
+.selfiimg {
+  width: 300px;
+  margin-left: 3%;
+}
+.selfi-box {
+  width: 800px;
+  height: 300px;
+  display: flow-root;
+}
